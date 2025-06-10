@@ -1,5 +1,12 @@
 ## 👋 Hi there 
 I'm Hung Vu - someone who is passionate about learning data, as I’ve always loved discovering the insights and stories hidden behind the numbers.
+
+
+## 📖 Background
+University of Economics and Law - Vietnam National Univeristy, Ho Chi Minh City (2019-2023)
+Bachelor's Degree in Internation Business with GPA 3.1/4.0
+
+
 <!--
 **hungvucoding/hungvucoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
