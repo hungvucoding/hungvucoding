@@ -1,6 +1,7 @@
 ## 👋 Hi there 
 I'm Hung Vu - someone who is passionate about learning data, as I’ve always loved discovering the insights and stories hidden behind the numbers.
 
+---
 
 ## 📖 Background
 University of Economics and Law - Vietnam National Univeristy, Ho Chi Minh City (2019-2023)
