@@ -24,7 +24,7 @@ https://github.com/hungvucoding/datalearning/tree/main/power-bi
 
 ---
 ## 🏅Certification
-[My Certification PDF](Certification/sql_basic certificate.pdf)
+[[My Certification PDF](Certification/sql_basic certificate.pdf)](https://github.com/hungvucoding/hungvucoding/blob/main/Certification/sql_basic%20certificate.pdf)
 
 
 
