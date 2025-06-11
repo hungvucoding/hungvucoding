@@ -20,7 +20,8 @@ https://github.com/hungvucoding/datalearning/tree/main/power-bi
 ---
 ## 📫 Connect with Me
 - Email: hungvulearn@gmail.com
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vutranhung/)
+- [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/vutranhung/))
+- [![LinkedIn]((https://www.linkedin.com/in/vutranhung/)
 
 ---
 ## 🏅Certification
