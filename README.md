@@ -1,5 +1,5 @@
-## 👋 Hi there 
-I'm Hung Vu - someone who is passionate about learning data, as I’ve always loved discovering the insights and stories hidden behind the numbers.
+## 👋 Hi there! I'm Hung Vu
+I'm passionate about learning data, discovering the insights and stories hidden behind the numbers.
 
 ---
 
@@ -8,7 +8,7 @@ I'm Hung Vu - someone who is passionate about learning data, as I’ve always lo
 🎓 Bachelor's Degree in International Business (GPA: 3.1/4.0)
 
 ---
-## Skills
+## 🛠️ Skills
 - Languages: Python, SQL
 - Tools: Excel, Power BI, Tableau
 - Interests: Data Analytics, Business Intelligence
@@ -16,6 +16,15 @@ I'm Hung Vu - someone who is passionate about learning data, as I’ve always lo
 ---
 ## 🚀 Featured Projects
 https://github.com/hungvucoding/datalearning/tree/main/power-bi
+
+---
+## 📫 Connect with Me
+- Email: hungvulearn@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/vutranhung/))
+
+---
+## 🏅Certification
+
 
 
 
