@@ -1,5 +1,5 @@
 ## 👋 Hi there! I'm Hung Vu
-I'm passionate about learning data, discovering the insights and stories hidden behind the numbers.
+I’m passionate about learning from data and discovering the insights and stories hidden behind the numbers. I am currently seeking opportunities to apply my skills in real-world projects, and I use this GitHub to showcase and store my work.
 
 ---
 
