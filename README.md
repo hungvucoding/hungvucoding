@@ -25,6 +25,7 @@ https://github.com/hungvucoding/datalearning/tree/main/power-bi
 ---
 ## 🏅Certification
 [![Certificate](https://img.shields.io/badge/Certificate-PDF-red?logo=adobeacrobatreader)](duong-dan-toi-file.pdf)
+[Hackerrank SQL basic](certification/sql_basic certificate.pdf)
 
 
 
