@@ -4,8 +4,19 @@ I'm Hung Vu - someone who is passionate about learning data, as I’ve always lo
 ---
 
 ## 📖 Background
-University of Economics and Law - Vietnam National Univeristy, Ho Chi Minh City (2019-2023)
-Bachelor's Degree in Internation Business with GPA 3.1/4.0
+🎓 University of Economics and Law - Vietnam National University, Ho Chi Minh City (2019-2023)  
+🎓 Bachelor's Degree in International Business (GPA: 3.1/4.0)
+
+---
+## Skills
+- Languages: Python, SQL
+- Tools: Excel, Power BI, Tableau
+- Interests: Data Analytics, Business Intelligence
+
+---
+## 🚀 Featured Projects
+https://github.com/hungvucoding/datalearning/tree/main/power-bi
+
 
 
 <!--
