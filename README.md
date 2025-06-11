@@ -1,5 +1,5 @@
 ## 👋 Hi there! I'm Hung Vu
-I’m passionate about learning from data and discovering the insights and stories hidden behind the numbers. I am currently seeking opportunities to apply my skills in real-world projects, and I use this GitHub to showcase and store my work.
+I’m passionate about learning from data and discovering the insights and stories hidden behind the numbers. I am currently learning SQL, PowerBI and Python and I want to apply my skills in real-world projects, I use GitHub to showcase and store my work.
 
 ---
 
