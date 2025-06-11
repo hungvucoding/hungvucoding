@@ -23,8 +23,11 @@ I'm passionate about learning data, discovering the insights and stories hidden 
 - [LinkedIn](https://www.linkedin.com/in/vutranhung/)
 
 ---
-## 🏅Certification
-- Hackerrank SQL Basic: [View my Certification]https://github.com/hungvucoding/hungvucoding/blob/main/Certification/Hackerrank%20SQL%20Basic.pdf
+## 🏅 Certifications
+
+| Tên chứng chỉ                | Đơn vị cấp   | Ngày cấp | Link PDF                                                                 |
+|------------------------------|-------------|----------|--------------------------------------------------------------------------|
+| HackerRank SQL Basic         | HackerRank  | 06/2024  | [Xem PDF](https://github.com/hungvucoding/hungvucoding/blob/main/Certification/sql_basic%20certificate.pdf) |
 
 
 
