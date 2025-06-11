@@ -4,10 +4,11 @@ I’m passionate about learning from data and discovering the insights and stori
 ---
 
 ## 📖 Background
-- University of Economics and Law, Vietnam National University, Ho Chi Minh City (2019–2023)   
-  Bachelor degree in Internation Business
+- Bachelor of International Business  
+  University of Economics and Law, Vietnam National University, Ho Chi Minh City (2019–2023)  
   GPA: 3.1/4.0
-- I currently working as a junior data analyst for audit team at Profectus Vietnam
+
+- Currently working as a Junior Data Analyst for the Audit team at Profectus Vietnam.
 
 ---
 ## 🛠️ Skills
