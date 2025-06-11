@@ -24,7 +24,7 @@ I'm passionate about learning data, discovering the insights and stories hidden 
 
 ---
 ## 🏅Certification
-- Hackerrank SQL Basic: [View My Certificate](https://github.com/hungvucoding/hungvucoding/blob/main/Certification/sql_basic%20certificate.pdf)
+- Hackerrank SQL Basic: [View My Certificate]https://github.com/hungvucoding/hungvucoding/blob/main/Certification/Hackerrank%20SQL%20Basic.pdf
 
 
 
