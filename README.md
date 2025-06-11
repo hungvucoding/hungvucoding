@@ -4,7 +4,7 @@ I’m passionate about learning from data and discovering the insights and stori
 ---
 
 ## 📖 Background
-- Bachelor of International Business  
+- **Bachelor of International Business**  
   University of Economics and Law, Vietnam National University, Ho Chi Minh City (2019–2023)  
   GPA: 3.1/4.0
 
