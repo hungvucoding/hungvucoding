@@ -13,8 +13,7 @@ I’m passionate about learning from data and discovering the insights and stori
 ---
 ## 🛠️ Skills
 - Languages: Python, SQL
-- Tools: Excel, Power BI, Tableau
-- Interests: Data Analytics, Business Intelligence
+- Tools: Excel, Power BI
 
 ---
 ## 🚀 Featured Projects
