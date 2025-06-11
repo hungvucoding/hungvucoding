@@ -24,7 +24,7 @@ https://github.com/hungvucoding/datalearning/tree/main/power-bi
 
 ---
 ## 🏅Certification
-[View My Certificate](https://github.com/hungvucoding/hungvucoding/blob/main/Certification/sql_basic%20certificate.pdf)
+- Hackerrank SQL Basic: [View My Certificate](https://github.com/hungvucoding/hungvucoding/blob/main/Certification/sql_basic%20certificate.pdf)
 
 
 
