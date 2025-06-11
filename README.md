@@ -15,12 +15,12 @@ I'm passionate about learning data, discovering the insights and stories hidden 
 
 ---
 ## 🚀 Featured Projects
-https://github.com/hungvucoding/datalearning/tree/main/power-bi
+[Power BI]: (https://github.com/hungvucoding/datalearning/tree/main/power-bi)
 
 ---
 ## 📫 Connect with Me
 - Email: hungvulearn@gmail.com
-- [![LinkedIn]: (linkedin.com/in/vutranhung/)
+- [LinkedIn](https://www.linkedin.com/in/vutranhung/)
 
 ---
 ## 🏅Certification
