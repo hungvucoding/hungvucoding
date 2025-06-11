@@ -15,7 +15,7 @@ I'm passionate about learning data, discovering the insights and stories hidden 
 
 ---
 ## 🚀 Featured Projects
-Power BI https://github.com/hungvucoding/datalearning/tree/main/power-bi
+Power BI: https://github.com/hungvucoding/datalearning/tree/main/power-bi
 
 ---
 ## 📫 Connect with Me
@@ -24,7 +24,7 @@ Power BI https://github.com/hungvucoding/datalearning/tree/main/power-bi
 
 ---
 ## 🏅 Certifications
-Hackerrank SQL Basic [View my Certification]https://github.com/hungvucoding/hungvucoding/blob/main/Certification/Hackerrank%20SQL%20Basic.pdf
+Hackerrank SQL Basic: [View my Certification]https://github.com/hungvucoding/hungvucoding/blob/main/Certification/Hackerrank%20SQL%20Basic.pdf
 
 
 
