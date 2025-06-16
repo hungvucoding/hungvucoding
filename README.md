@@ -14,6 +14,7 @@ I’m passionate about learning from data and discovering the insights and stori
 ## 🛠️ Skills
 - Languages: Python, SQL
 - Tools: Excel, Power BI
+- Financial Modeling: 3-statement Model, DCF
 
 ---
 ## 🚀 Featured Projects
