@@ -21,9 +21,9 @@ I’m passionate about learning from data and discovering the insights and stori
 Power BI: https://github.com/maiocvu/datalearning/tree/main/power-bi
 
 ---
-## 📫 Connect with Me
-- Email: hungvulearn@gmail.com
-- Linkedin: [Linkedin](https://www.linkedin.com/in/vutranhung/)
+## 📫 Contact
+- You can reach me via email at (hungvulearn@gmail.com)
+- Connect with me on [Linkedin](https://www.linkedin.com/in/vutranhung/)
 
 ---
 ## 🏅 Certifications
