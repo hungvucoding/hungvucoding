@@ -14,16 +14,16 @@ I’m passionate about learning from data and discovering the insights and stori
 ## 🛠️ Skills
 - Languages: Python, SQL
 - Tools: Excel, Power BI
-- Financial Modeling: 3-statement Model, DCF
+- Financial Modeling: 3-statement Model, valueation with DCF method
 
 ---
 ## 🚀 Featured Projects
-Power BI: https://github.com/hungvucoding/datalearning/tree/main/power-bi
+Power BI: https://github.com/maiocvu/datalearning/tree/main/power-bi
 
 ---
 ## 📫 Connect with Me
 - Email: hungvulearn@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/vutranhung/)
+- Linkedin: [Linkedin](https://www.linkedin.com/in/vutranhung/)
 
 ---
 ## 🏅 Certifications
