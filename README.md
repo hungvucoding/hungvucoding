@@ -27,7 +27,8 @@ Power BI: https://github.com/hungvucoding/datalearning/tree/main/power-bi
 
 ---
 ## 🏅 Certifications
-- Hackerrank SQL Basic: [View My Certificate](https://github.com/hungvucoding/hungvucoding/blob/main/Certification/Hackerrank%20SQL%20Basic.pdf)
+- Hackerrank SQL Basic: [View My Certificate](https://github.com/maicovu/maicovu/blob/main/Certification/Hackerrank%20SQL%20Basic.pdf)
+- Insight of Power BI: [View My Certificate](https://github.com/maicovu/maicovu/blob/main/Certification/Insight%20of%20Power%20BI.pdf)
 
 
 
