@@ -18,7 +18,7 @@ I’m passionate about learning from data and discovering the insights and stori
 
 ---
 ## 🚀 Featured Projects
-Power BI: https://github.com/maiocvu/datalearning/tree/main/power-bi
+Power BI: https://github.com/maicovu/datalearning/tree/main/power-bi
 
 ---
 ## 📫 Contact
