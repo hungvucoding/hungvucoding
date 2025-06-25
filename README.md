@@ -17,10 +17,6 @@ I’m passionate about learning from data and discovering the insights and stori
 - Financial Modeling: 3-statement Model, valueation with DCF method
 
 ---
-## 🚀 Featured Projects
-Power BI: https://github.com/maicovu/datalearning/tree/main/power-bi
-
----
 ## 📫 Contact
 - You can reach me via email at hungvulearn@gmail.com
 - Connect with me on [Linkedin](https://www.linkedin.com/in/vutranhung/)
@@ -35,7 +31,9 @@ Power BI: https://github.com/maicovu/datalearning/tree/main/power-bi
 
 <!--
 **hungvucoding/hungvucoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<<------
+## 🚀 Featured Projects
+Power BI: https://github.com/maicovu/datalearning/tree/main/power-bi
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
